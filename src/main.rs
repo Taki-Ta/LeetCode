@@ -1,4 +1,3 @@
-// use crate::solution::diagonal_prime;
 mod solution;
 
 use solution::Solution;
