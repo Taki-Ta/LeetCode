@@ -6,5 +6,6 @@ mod q2680;
 mod q1963;
 mod q2255;
 mod q2643;
+mod q2829;
 
 pub struct Solution;
