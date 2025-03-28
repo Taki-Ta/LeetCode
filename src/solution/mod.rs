@@ -8,5 +8,7 @@ mod q2255;
 mod q2643;
 mod q2829;
 mod q3110;
+mod q2;
+
 
 pub struct Solution;
