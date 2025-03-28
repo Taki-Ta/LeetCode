@@ -9,6 +9,7 @@ mod q2643;
 mod q2829;
 mod q3110;
 mod q2;
+mod q2716;
 
 
 pub struct Solution;
